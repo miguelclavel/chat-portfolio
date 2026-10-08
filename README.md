@@ -38,6 +38,8 @@ When someone asks something it can't answer yet, the question gets recorded. Eve
 
 A real example: someone typed "Tell me about Miguel’s work" and got the fallback. The fix taught the chat that people talk about me in the third person, and that question is now one of the tests.
 
+**[Read the build log](BUILD-LOG.md)**: from idea to live, the key decisions, and the first real feedback, fixed the same day.
+
 ## Privacy
 
 The log is small on purpose. No IP addresses, contact details are removed from questions, and nothing a visitor types is saved unless they send it. There's a [privacy page](https://chat.miguelclavel.com/privacy?utm_source=github&utm_medium=chat-portfolio) that says exactly what is kept.
